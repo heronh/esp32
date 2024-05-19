@@ -1,7 +1,15 @@
 # esp32
 Templates de programas
 
-## hello
-Programa simples. Pisca led a cada 1 segundo
+## hotspot
+Cria um servidor simples
 
-teste
+## wifi 
+Lista redes wifi da área
+
+## task
+Programa com freertos com 2 tasks, a do led e a da serial
+
+## hello
+Programa simples. Pisca led a cada 1 segundo e manda um mesangem pela serial.
+
