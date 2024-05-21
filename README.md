@@ -1,5 +1,5 @@
 # esp32
-Templates de programas
+Templates de programas para o ESP32
 
 ## hotspot
 Cria um servidor simples
